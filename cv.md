@@ -10,9 +10,9 @@ I am 16 yers old, i'm not working yet, and i'm studying in the 10th grade. the a
    - tenacious
 ## Skills
 - HTML
-- JavaSkript( fundamentals )
+- JavaSkript( Fundamentals )
 - Git/GitHub
-- blender ( intermediate level )
+- blender ( Intermediate level )
 ## Code example
 ```
 const stringToNumber=function(str) {
